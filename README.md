@@ -1,5 +1,5 @@
 
-# Stock Price Predication - using Time Teries 
+# Stock Price Predication - using Time Series 
 
 ## Time series data
 Time series data is a sequence of data points in chronological order that is used by businesses to analyze past data and make future predictions. These data points are a set of observations at specified times and equal intervals, typically with a datetime index and corresponding value. Common examples of time series data in our day-to-day lives include:
